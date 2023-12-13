@@ -1,0 +1,10 @@
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\bin\Debug\cumleanaliziproje.exe.config
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\bin\Debug\cumleanaliziproje.exe
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\bin\Debug\cumleanaliziproje.pdb
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.csproj.AssemblyReference.cache
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.StringExtensions.resources
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.Properties.Resources.resources
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.csproj.GenerateResource.cache
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.csproj.CoreCompileInputs.cache
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.exe
+C:\Users\PELİNKESKİN\Source\Repos\cumleanaliziproje\cumleanaliziproje\obj\Debug\cumleanaliziproje.pdb
